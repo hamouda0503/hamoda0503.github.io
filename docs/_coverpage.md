@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
-![logo](bestteam.png)
-# DevOps CI/CD Pipeline  <small> Project </small>
+![logo](smartup-groupe-3s.png)
+ DevOps CI/CD Pipeline  <small> Project </small>
 
 [GitHub]()
 [Get Started](plan.md)
